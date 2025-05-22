@@ -7,29 +7,56 @@ Dedicated and detail-oriented Security Operations Center (SOC) Analyst with hand
 Telstra Cybersecurity Skills Learned
 ---------------------------------------
 Communication
+
 Compliance
+
 Cybersecurity
+
 Data Analysis
+
 Design Thinking
+
 Detection & Response
+
 Governance
+
 Incident Reflection
+
 Incident Triage
+
 Network Analysis
+
 Problem Solving
+
 Python
+
 Research
+
 Risk
+
 Root Cause Analysis
+
 Security Engineering
+
 Software Development
+
 Solution Architecture
+
 Strategy
+
 Teamwork
+
 Threat Analysis & Incident Response
+
 Firewall Log Analysis & Network Monitoring
+
 Security Event Triage & Reporting
+
 Vulnerability Assessment (Spring4Shell, Log4j, etc.)
+
 Python Scripting for Security Automation
+
 SOC Alert Management & Escalation
+
 Communication & Coordination with Security Teams
+
